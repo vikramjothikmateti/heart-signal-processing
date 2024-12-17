@@ -1,6 +1,4 @@
-# Final-Project-Cloud
-
-Project Overview
+# Project Overview
 This project aims to develop an advanced deep learning model for the classification and diagnosis of heart diseases through automated analysis of heartbeat sounds. By leveraging state-of-the-art machine learning techniques, we seek to create a robust, accurate, and efficient diagnostic tool for healthcare professionals.
 Objectives
 
